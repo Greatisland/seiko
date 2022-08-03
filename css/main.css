@@ -277,11 +277,11 @@ body::before {
 
 @keyframes circle {
   0% {
-    stroke-dashoffset: 207.5px
+    stroke-dashoffset: 207.5px;
   }
 
   100% {
-    stroke-dashoffset: 0
+    stroke-dashoffset: 0;
   }
 }
 
