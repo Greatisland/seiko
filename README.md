@@ -6,6 +6,6 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 
 
-<h2><a href="https://greatisland.github.io/seiko">
+<h2><a href="https://greatisland.github.io/seiko" target="_blank">
 greatisland.github.io/seiko
 </a></h2>
